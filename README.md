@@ -10,29 +10,25 @@
 ## 📂 주요 코드 기능
 
 ```bash
-< 코드 설명(정리중) >
+< 코드 설명 >
    |
-   |-- Button_move.cs/                     // 시작화면에서 버튼을 컨트롤하기위한 코드
-   |-- Button_print.cs/                    // 
+   |-- Button_move.cs/                     // 버튼 등장 및 옵션 온 오프 기능
+   |-- Button_print.cs/                    // 시작 옵션 종료 버튼 이벤트
    |
-   |-- Traffic_Light.cs/                   // 
-   |-- Traffic_triggerAIarm.cs/            //
-   |-- button.cs/                          // 
-   |-- handle_joistic.cs/                  //
+   |-- Traffic_Light.cs/                   // 신호등 기능
+   |-- Traffic_triggerAIarm.cs/            // 신호등의 현재 상황에 대한 안내 기능
    |
-   |-- Booster_Camera.cs/                  //
-   |-- Car_Habition_rotation.cs/           //
-   |-- Car_Information.cs/                 //
-   |-- Car_move.cs/                        //
-   |-- GameManager.cs/                     //
-   |-- SkyBox_rotation.cs/                 //
-   |-- Car_load.cs/                        //
-   |-- light_defultchange.cs/              //
+   |-- Booster_Camera.cs/                  // 차량의 일정 속도에 도달시 부스터 모션 이벤트
+   |-- Car_Habition_rotation.cs/           // 전시관 캐릭터 회전 모션 이벤트
+   |-- Car_Information.cs/                 // 전시관의 특정 차량에 대한 영상재생과 시운전시 차량 선택
+   |-- Car_move.cs/                        // 전시관에서 이동하는 차량 캐릭터의 움직임 이벤트
+   |-- GameManager.cs/                     // 씬 이동 매니
+   |-- SkyBox_rotation.cs/                 // 배경 회전
+   |-- Car_load.cs/                        // 트랙 이동
    |-- navmeshagent.cs/                    //
-   |-- sign_trrigerAlarm1.cs/              //
-   |-- track_Cars.cs/                      //
-   |-- wheel_controller.cs/                //
-   |-- wheelcollider_test.cs/              //
+   |-- sign_trrigerAlarm1.cs/              // 가속 구간 안내
+   |-- track_Cars.cs/                      // 트랙에서 사용할 차량 변
+   |-- wheel_controller.cs/                // 휠 콜라이더를 사용한 차량의 기능 구
    |
    |-- ************************************************************************
 ```
