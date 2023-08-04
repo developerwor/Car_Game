@@ -26,8 +26,8 @@
    |-- SkyBox_rotation.cs/                 // 배경 회전
    |-- Car_load.cs/                        // 트랙 이동
    |-- sign_trrigerAlarm1.cs/              // 가속 구간 안내
-   |-- track_Cars.cs/                      // 트랙에서 사용할 차량 변
-   |-- wheel_controller.cs/                // 휠 콜라이더를 사용한 차량의 기능 구
+   |-- track_Cars.cs/                      // 트랙에서 사용할 차량 변경
+   |-- wheel_controller.cs/                // 휠 콜라이더를 사용한 차량의 기능 구현
    |
    |-- ************************************************************************
 ```
