@@ -12,7 +12,7 @@
 ```bash
 < 코드 설명(정리중) >
    |
-   |-- Button_move.cs/                     // 
+   |-- Button_move.cs/                     // 초기화면에서의 버튼을 컨트롤하기위한 코드
    |-- Button_print.cs/                    // 
    |
    |-- Traffic_Light.cs/                   // 
